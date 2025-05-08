@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">•✉️How to reach me: sidharthvs3323@gmail.com</p>
+<p align="left">•✉️How to reach me : sidharthvs3323@gmail.com</p>
 
 ###
 
-<p align="left">Find me online on:</p>
+<p align="left">•Find me online on :</p>
 
 ###
 
@@ -36,7 +36,7 @@
 </div>
 
 ###
-
+<p align="left">•Languages :</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
