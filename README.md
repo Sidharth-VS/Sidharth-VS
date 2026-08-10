@@ -1,24 +1,18 @@
-<h2 align="left">Hi There 👋, I am Sidharth V Sathyan</h2>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
-<p align="left">• 🏢I am currently studying in Indian Institue of Information Technology Kottayam</p>
+<h1 data-importer="text" align="left">Hey 👋 I am Sidharth</h1>
 
 ###
 
-<p align="left">•⚒️Currently working on : Product recommender agent</p>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
-<p align="left">•🌱Currently learning : Agentic workflow</p>
-
-###
-
-<p align="left">•⚡Passionate in Artificial Intelligence and Machine Learning</p>
-
-###
-
-<p align="left">•✉️How to reach me : sidharthvs3323@gmail.com</p>
+<p data-importer="text" align="left">🎓️ Currently Studying at Indian Institute of Information Technology Kottayam<br>📚 I'm currently learning Golang<br>⚙️ Currently working on a collaborative document editor<br>✉️ Connect with me --> sidharthvs3323@gmail.com</p>
 
 ###
 
@@ -27,26 +21,61 @@
 ###
 
 <div align="left">
-  <a href="mailto:sidharthvs3323@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/sidharth-v-sathyan-b54127280/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
+<h2 data-importer="text" align="left">I work with</h2>
+
 ###
-<p align="left">•Languages :</p>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
+
+<h3 data-importer="text" align="left">Languages:</h3>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Backend:</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Devtools:</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+
+## 🏆 Competitive Programming
+<div align="center">
+
+[![LeetCode](https://leetcard.jacoblin.cool/Sidharth_VS?theme=dark&font=Be%20Vietnam%20Pro&ext=heatmap)](https://leetcode.com/u/Sidharth_VS/)
+
 </div>
 
 ###
